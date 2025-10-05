@@ -1,0 +1,14 @@
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\EjerciciosClases\EjerciciosClases\bin\Debug\net8.0\EjerciciosClases.exe
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\EjerciciosClases\EjerciciosClases\bin\Debug\net8.0\EjerciciosClases.deps.json
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\EjerciciosClases\EjerciciosClases\bin\Debug\net8.0\EjerciciosClases.runtimeconfig.json
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\EjerciciosClases\EjerciciosClases\bin\Debug\net8.0\EjerciciosClases.dll
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\EjerciciosClases\EjerciciosClases\bin\Debug\net8.0\EjerciciosClases.pdb
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\EjerciciosClases\EjerciciosClases\obj\Debug\net8.0\EjerciciosClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\EjerciciosClases\EjerciciosClases\obj\Debug\net8.0\EjerciciosClases.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\EjerciciosClases\EjerciciosClases\obj\Debug\net8.0\EjerciciosClases.AssemblyInfo.cs
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\EjerciciosClases\EjerciciosClases\obj\Debug\net8.0\EjerciciosClases.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\EjerciciosClases\EjerciciosClases\obj\Debug\net8.0\EjerciciosClases.dll
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\EjerciciosClases\EjerciciosClases\obj\Debug\net8.0\refint\EjerciciosClases.dll
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\EjerciciosClases\EjerciciosClases\obj\Debug\net8.0\EjerciciosClases.pdb
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\EjerciciosClases\EjerciciosClases\obj\Debug\net8.0\EjerciciosClases.genruntimeconfig.cache
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\EjerciciosClases\EjerciciosClases\obj\Debug\net8.0\ref\EjerciciosClases.dll

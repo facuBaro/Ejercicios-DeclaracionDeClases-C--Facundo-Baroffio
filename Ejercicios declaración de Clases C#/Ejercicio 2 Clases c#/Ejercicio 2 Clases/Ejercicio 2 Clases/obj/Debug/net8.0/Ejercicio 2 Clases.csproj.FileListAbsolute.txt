@@ -1,0 +1,14 @@
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\Ejercicio 2 Clases c#\Ejercicio 2 Clases\Ejercicio 2 Clases\obj\Debug\net8.0\Ejercicio 2 Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\Ejercicio 2 Clases c#\Ejercicio 2 Clases\Ejercicio 2 Clases\obj\Debug\net8.0\Ejercicio 2 Clases.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\Ejercicio 2 Clases c#\Ejercicio 2 Clases\Ejercicio 2 Clases\obj\Debug\net8.0\Ejercicio 2 Clases.AssemblyInfo.cs
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\Ejercicio 2 Clases c#\Ejercicio 2 Clases\Ejercicio 2 Clases\obj\Debug\net8.0\Ejercicio 2 Clases.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\Ejercicio 2 Clases c#\Ejercicio 2 Clases\Ejercicio 2 Clases\bin\Debug\net8.0\Ejercicio 2 Clases.exe
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\Ejercicio 2 Clases c#\Ejercicio 2 Clases\Ejercicio 2 Clases\bin\Debug\net8.0\Ejercicio 2 Clases.deps.json
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\Ejercicio 2 Clases c#\Ejercicio 2 Clases\Ejercicio 2 Clases\bin\Debug\net8.0\Ejercicio 2 Clases.runtimeconfig.json
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\Ejercicio 2 Clases c#\Ejercicio 2 Clases\Ejercicio 2 Clases\bin\Debug\net8.0\Ejercicio 2 Clases.dll
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\Ejercicio 2 Clases c#\Ejercicio 2 Clases\Ejercicio 2 Clases\bin\Debug\net8.0\Ejercicio 2 Clases.pdb
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\Ejercicio 2 Clases c#\Ejercicio 2 Clases\Ejercicio 2 Clases\obj\Debug\net8.0\Ejercicio 2 Clases.dll
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\Ejercicio 2 Clases c#\Ejercicio 2 Clases\Ejercicio 2 Clases\obj\Debug\net8.0\refint\Ejercicio 2 Clases.dll
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\Ejercicio 2 Clases c#\Ejercicio 2 Clases\Ejercicio 2 Clases\obj\Debug\net8.0\Ejercicio 2 Clases.pdb
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\Ejercicio 2 Clases c#\Ejercicio 2 Clases\Ejercicio 2 Clases\obj\Debug\net8.0\Ejercicio 2 Clases.genruntimeconfig.cache
+C:\Users\Estudiante\Desktop\Ejercicios declaración de Clases C#\Ejercicio 2 Clases c#\Ejercicio 2 Clases\Ejercicio 2 Clases\obj\Debug\net8.0\ref\Ejercicio 2 Clases.dll
